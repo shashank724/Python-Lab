@@ -74,7 +74,8 @@ Python 3.7.3 (default, Apr  3 2019, 05:39:12)
 [GCC 8.3.0] on linux
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
-================== RESTART: /home/cs2016b103/shashank/pythonlab1.py ================== Shashank S
+================== RESTART: /home/cs2016b103/shashank/pythonlab1.py ================== 
+ Shashank S
 Enter the value of a:30
 Enter the value of b:20
 Addition of 10 and 20 is 50
